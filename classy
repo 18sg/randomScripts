@@ -1,0 +1,5 @@
+#!/bin/bash
+chromium www.rainymood.com
+chromium endlessvideo.com/watch?v=HMnrl0tmd3k
+chromium endlessvideo.com/watch?v=DIx3aMRDUL4
+aafire -width 239 -height 81 -extended
